@@ -1,0 +1,41 @@
+#header-nav {
+	background-color: red;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand h1 {
+	font-weight: bold;
+	margin-top: 0;
+	color: orange;
+	margin-left:
+
+}
+h1 {
+	font-size: 20px;
+}
+.navbar-toggle {
+	border: 0;
+}
+#nav-list a:hover {
+	background-color: maroon;
+}
+#nav-list a {
+	color: yellow;
+	text-align: center;
+}
+#nav-list a span {
+	margin-right: 10px;
+}
+#collapsable-nav {
+	background-color: green;
+}
+section {
+	background-color: gray;
+	height: 1000px;
+	font-size: 16px;
+}
+div>h1 {
+	font-weight: bold;
+	opacity: .6;
+	margin-bottom: 40px;
+}
